@@ -25,6 +25,7 @@ public class CompleteBinaryTree<E> {
 		nodes[++lastIndex] = e;
 	}
 
+
 	public void bfs() {
 		// 1. 순서를 관리할 큐 준비
 		Queue<Integer> queue = new ArrayDeque<>();
