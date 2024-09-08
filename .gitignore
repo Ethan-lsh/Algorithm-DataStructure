@@ -2,8 +2,8 @@
 */recommenders/
 */settings
 */bin
-*/classpath
-*/project
+*/.classpath
+*/.project
 
 ALGORITHM/.metadata/
 ALGORITHM/.settings/
